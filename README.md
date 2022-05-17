@@ -6,5 +6,14 @@ The IPFS Blogging Engine serves as the foundation for a Web3.0 blog site and has
 
 ## Application Flow
 
-![application-flow-diagram](application-flow-diagram.png)
-
+![application-flow-diagram](application-flow-diagram.png) 
+1. Setting up blog page (blog page setting, profile card setting ,and deployment setting)
+2. When user hits submit, all the info and uploaded contents will be compiled into a JSON file
+3. The JSON file will be stored on IPFS via [Web3.storage](web3.storage)
+4. After [Web3.storage](web3.storage) returned a CID, additional pinning of content (using CID) will be done via [Pinata](pinata.cloud)
+5. The CID obtained from [Web3.storage](web3.storage) returned to the user
+5. User can now render the blog page with Render Machine by using the CID
+6. The relevant JSON file is fetched from IPFS when user request
+7. Markdown file (blog post) will be converted into HTML format using [Showdown.js](https://github.com/showdownjs/showdown)
+8. Other info will be converted into HTML components.
+9. Theme styling is applied and the fully-designed blog page will be successfully rendered
