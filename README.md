@@ -6,5 +6,5 @@ The IPFS Blogging Engine serves as the foundation for a Web3.0 blog site and has
 
 ## Application Flow
 
-![application-flow-diagram](application-flow-diagram.png)
+
 
