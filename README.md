@@ -20,5 +20,5 @@ Live Demo Site: [IPFS Blog Engine](https://ipfs-blogging-engine.vercel.app/#/)
 8. Other info and contents converted into HTML components.
 9. Theme styling is applied and the fully-designed blog page successfully rendered  
 
-[footer](footer.png)
+![footer](footer.png)
 
