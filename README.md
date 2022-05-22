@@ -27,5 +27,5 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 8. Other info and contents converted into HTML components.
 9. Theme styling is applied and the fully-designed blog page successfully rendered  
 
-![footer](footer.png)
+![footer](repo-footer.png)
 
