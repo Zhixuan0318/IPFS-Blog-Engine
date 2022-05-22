@@ -11,6 +11,7 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 ⚠️ Sometimes, queuing to pin your generated blog post and make it widely available might take a longer time. No worries! I had generated some sample blog posts, and here are the CIDS:  
 ⚠️ If you are generating blog post yourself from scratch, check your storing and pinning status on [Web3.storage](web3.storage), make sure it is not queuing and had successfully stored and pinned. Or else, you can't render you blog post as it is not available.
 
+<img src="storing-and-pinning-status.png" width="800"></img>
 
 ## Application Flow
 
