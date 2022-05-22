@@ -8,6 +8,7 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 
 #### 🕹️ Live Site | [IPFS Blog Engine](https://ipfs-blog-engine.vercel.app/#/)
 #### 🔊 Video Demo | [See how it works]()
+#### ✨ Showcase | [View the deck]()
 
 ## About Testing
 ⚠️ Sometimes, queuing to pin your generated blog post and make it widely available might take a longer time. No worries! I had generated some sample blog posts, and here are the CIDS:  
