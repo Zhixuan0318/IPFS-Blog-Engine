@@ -10,6 +10,11 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 #### 🔊 Video Demo | [See how it works](https://drive.google.com/file/d/1P-M23KIuPo2QuRn2khiDmanwuD0WGgAW/view?usp=sharing)
 #### ✨ Showcase | [View the deck](https://github.com/Zhixuan0318/IPFS-Blog-Engine/tree/main/pdeck)
 
+## Technology Used
+1. [Web3.storage](web3.storage) : User blog creation first stored on the Web3.storage IPFS clusters. 
+2. [Pinata](pinata.cloud): If user chooses to have additional pinning, the CID generated from Web3.storage will be fetched and pin on Pinata via CID. This action will make sure that the user's blog post is more widely available in the IPFS network. The content will be pin on the user's own Pinata IPFS clusters.
+3. [Unstoppable Domain Integration](https://unstoppabledomains.com/): Users can verify themselves using their own unstoppable domain just by simple login. Their blog post created will have an UNS verification badge on their blog page profile card.
+
 ## About Testing
 ⚠️ Sometimes, queuing to pin your generated blog post and make it widely available might take a longer time. No worries! I had generated some sample blog posts, and here are the CIDS: 
 * bafybeigjjzu2hwk223mm3zxl35lvrhj2xrzk4sqrh7ce6qd7khancj5eli
