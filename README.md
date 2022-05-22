@@ -16,6 +16,10 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 
 <img src="storing-and-pinning-status.png" width="800"></img>
 
+⚠️ If you are using additional pinning to Pinata, you can always check the `Pin by CID Queue` in Pinata. These are the pending pins in queue: 
+
+<img src="pin-to-pinata.png" width="800"></img>
+
 ## Application Flow
 
 ![application-flow-diagram](application-flow-diagram.png) 
