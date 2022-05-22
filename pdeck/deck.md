@@ -1,6 +1,6 @@
-![slide1](pdeck/Slide1.png)
+![Slide1](pdeck/Slide1.png)
 
-![slide2](pdeck/Slide2.png)
+![Slide2](pdeck/Slide2.png)
 
 ![slide3](pdeck/Slide3.png)
 
