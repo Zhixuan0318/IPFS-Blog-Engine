@@ -48,6 +48,12 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 
 <img src="rendered-blog-page.png" width="800"></img>
 
+## Contact Me
+
+Person of contact: Tan Zhi Xuan
+Discord ID: Tan Zhi Xuan#7032
+Unstoppable Domain Register Email: t.zhixuan318@gmail.com
+
 
 ![footer](repo-footer.png)
 
