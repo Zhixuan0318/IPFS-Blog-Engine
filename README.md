@@ -8,7 +8,7 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 
 #### 🕹️ Live Site | [IPFS Blog Engine](https://ipfs-blog-engine.vercel.app/#/)
 #### 🔊 Video Demo | [See how it works](https://drive.google.com/file/d/1P-M23KIuPo2QuRn2khiDmanwuD0WGgAW/view?usp=sharing)
-#### ✨ Showcase | [View the deck](https://github.com/Zhixuan0318/IPFS-Blog-Engine/tree/main/pdeck)
+#### ✨ Showcase | [View the pitch deck](https://github.com/Zhixuan0318/IPFS-Blog-Engine/tree/main/pdeck)
 
 ## Technology Used
 1. [Web3.storage](web3.storage) : User blog creation first stored on the Web3.storage IPFS clusters. 
