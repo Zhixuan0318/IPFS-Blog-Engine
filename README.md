@@ -2,6 +2,8 @@
 
 ![IPFS](https://img.shields.io/badge/IPFS-Ready-brightgreen) ![Web3.storage](https://img.shields.io/badge/Web3.storage-Ready-brightgreen) ![Pinata](https://img.shields.io/badge/Pinata-Ready-brightgreen) ![UNS](https://img.shields.io/badge/UNS%20Login%20Verification%20Badge-Ready-brightgreen)
 
+Specially Built For | **L2 Rollathon: The Virtual Hackathon**
+
 ## Synopsis
 
 The **IPFS Blog Engine** and **Render Machine** (built to render blog page from JSON data) serves as the foundation for a Web3.0 blog site and has the ability to scale into a Web3.0 and blockchain-based CMS (Content Management System). It allows users to create a blog page with a simple user interface and then compile all of the blog page's components and uploaded contents into JSON data. The JSON file will then be deployed and stored on the **IPFS (Interplanetary File System)**, which is a distributed file system, with the help of **[Web3.storage](web3.storage)** and **[Pinata](pinata.cloud)**. Users can now render, display and share their blog page simply by utilising the specially-designed Render Machine and the CID obtained when the blog page was created. The required JSON file will be fetched from IPFS and parsed into various components, resulting in a fully-designed blog page. 
