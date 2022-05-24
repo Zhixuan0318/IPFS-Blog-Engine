@@ -16,7 +16,7 @@ The **IPFS Blog Engine** and **Render Machine** (built to render blog page from 
 3. [Unstoppable Domain Integration](https://unstoppabledomains.com/): Users can verify themselves using their own unstoppable domain just by simple login. Their blog post created will have an UNS verification badge on their blog page profile card.
 
 ## About Testing
-⚠️ Sometimes, queuing to pin your generated blog post and make it widely available might take a longer time. No worries! I had generated some sample blog posts, and here are the CIDS: 
+⚠️ Sometimes, queuing to pin your generated blog post and make it widely available might take a longer time. No worries! I had generated some sample blog posts (during my testing phase), and here are the CIDS: 
 * bafybeib343opqf2xpaherebwt7pk26zlq7k6yxqrrt3ltcwpirzyerqlvy
 * bafybeigjjzu2hwk223mm3zxl35lvrhj2xrzk4sqrh7ce6qd7khancj5eli
 * bafybeigjvcch3t2qxixv4mpjwjlbtgfaws6ictwm72wztga26tkg46hcdu
